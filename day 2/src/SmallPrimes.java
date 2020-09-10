@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class SmallPrimes {
     public static void main(String[] args) {
         int conunt = 100;
@@ -13,9 +11,9 @@ public class SmallPrimes {
     }
 
     public static boolean isPrimeNumber(int num) {
-        if (num < 2) {
+        if (num < 2)
             return false;
-        }
+
         for (int i = 2; i <= Math.sqrt(num); i++) {
             if (num % i == 0) {
                 return false;
