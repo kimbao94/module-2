@@ -1,5 +1,3 @@
-import javax.sound.midi.Soundbank;
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class GreatestCommonDivisor {
@@ -15,9 +13,9 @@ public class GreatestCommonDivisor {
 
         while (a != b) {
             if (a > b)
-                a = a - b;
+                a -= b;
             else
-                b = b -a;
+                b -= a;
         }
         System.out.println("ước chung lớn nhất là: " + a);
     }
