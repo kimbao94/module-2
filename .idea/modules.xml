@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/day 4 Class vs Object/DawRectangle.iml" filepath="$PROJECT_DIR$/day 4 Class vs Object/DawRectangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day 4 Class vs Object/Rectangle.iml" filepath="$PROJECT_DIR$/day 4 Class vs Object/Rectangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai tap t4/bai tap t4.iml" filepath="$PROJECT_DIR$/bai tap t4/bai tap t4.iml" />
       <module fileurl="file://$PROJECT_DIR$/day 1/day 1.iml" filepath="$PROJECT_DIR$/day 1/day 1.iml" />
       <module fileurl="file://$PROJECT_DIR$/day 2/day 2.iml" filepath="$PROJECT_DIR$/day 2/day 2.iml" />
       <module fileurl="file://$PROJECT_DIR$/day 3/day 3.iml" filepath="$PROJECT_DIR$/day 3/day 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day 4 Class vs Object/day 4 Class vs Object.iml" filepath="$PROJECT_DIR$/day 4 Class vs Object/day 4 Class vs Object.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/module 2.iml" filepath="$PROJECT_DIR$/.idea/module 2.iml" />
     </modules>
   </component>
